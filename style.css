@@ -1,0 +1,63 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/06/bitcoin_040620213858.jpg");
+  background-color: #000000;
+  background-size: 125vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: white;
+  font-weight: strong;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: white;
+  font-size: large;
+  font-weight: strong;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  font-weight: strong;
+  color: black;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: white;
+  font-size: 25px;
+  font-weight: strong;
+}
